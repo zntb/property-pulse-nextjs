@@ -13,7 +13,7 @@
     "mapbox-gl": "^3.11.1",
     "mongodb": "^6.15.0",
     "mongoose": "^8.14.1",
-    "next": "14.2.28",
+    "next": "14.2.29",
     "next-auth": "^4.24.10",
     "photoswipe": "^5.4.4",
     "react": "^18",
